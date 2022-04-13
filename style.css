@@ -1,0 +1,38 @@
+.c1{
+  background-color: black;
+
+}
+
+.p1 {
+  font-family: 'Courier New', monospace;
+}
+
+.foto1{
+
+  w3-left-align;
+
+
+}
+
+img {
+  border-radius: 8px;
+}
+
+
+
+div.cabecalho{
+  border-width: medium;
+  border-style: solid;
+  border-color: #000000;
+
+
+}
+
+h1.sub{
+  font-family: 'Courier New', monospace;
+}
+
+h2.subtitle{
+  font-size: 20px;
+  font-family: 'Courier New', monospace;
+} 
